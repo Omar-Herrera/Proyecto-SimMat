@@ -1,3 +1,4 @@
 # Proyecto-SimMat
 Programación Lineal. Planteamiento y Soluciones
-a
+
+El presente archivo, tiene la finalidad de plantear y solucionar...
